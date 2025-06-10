@@ -1,0 +1,2 @@
+All bugs were fixed successfully!
+Checkout new-feature.txt for more!
